@@ -25,14 +25,40 @@ I love solving complex problems and exploring new technologies! 🚀
 
 ## 🛠️ Languages and Tools
 
-| Languages          | Web                 | Databases         | IDEs & Editors               | Productivity & Tools      | Networking & OS          |
-|--------------------|---------------------|-------------------|-----------------------------|---------------------------|-------------------------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=flat&logo=cisco&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) | ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-D24726?style=flat&logo=microsoft-powerpoint&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |                   | ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=r&logoColor=white) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) |                     |                   |                             |                           |                         |
+<div align="center">
 
----
+### 💻 Programming Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+
+### 🌐 Web Development  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+### 🗄️ Databases  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> &nbsp;
+<img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40"/>
+
+### 🧰 Tools & IDEs  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_Logo.svg/512px-RStudio_Logo.svg.png" alt="RStudio" width="40" height="40"/>
+
+### 📊 Office & Productivity  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> &nbsp;
+<img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" alt="Word" width="40" height="40"/> &nbsp;
+<img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" alt="PowerPoint" width="40" height="40"/> &nbsp;
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+
+### 🌐 Networking & OS  
+<img src="https://img.icons8.com/color/48/000000/cisco-packet-tracer.png" alt="Cisco Packet Tracer" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+</div>
+
 
 *Let’s connect and create something amazing together!* 🚀
 
