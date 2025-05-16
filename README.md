@@ -1,5 +1,5 @@
+![WhatsApp Image 2025-05-16 at 16 54 18_4d71e608](https://github.com/user-attachments/assets/606d1b7b-d088-4de7-b2ba-8eb856926a03)
 # Hi there, I'm Sharan Debra Holmes 👋
-![WhatsApp Image 2025-05-16 at 16 43 40_af783684](https://github.com/user-attachments/assets/b62018b2-01bf-498c-b7aa-010b6c76e0a2)
 
 - 🎓 Undergraduate at **SLIIT**, specializing in **Information Technology**
 - 👀 I’m interested in **technology, software development, and data analysis**
