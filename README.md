@@ -7,7 +7,7 @@
 - 👀 I’m interested in **technology, software development, and data analysis**
 - 🌱 I’m currently learning **advanced programming, cloud computing, and database management**
 - 📫 How to reach me:  
-  - [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](http://www.linkedin.com/in/sharan)  )
+  - [LinkedIn][([https://www.linkedin.com/in/your-linkedin-profile](http://www.linkedin.com/in/sharan)  ](http://www.linkedin.com/in/sharan)
   
 - 😄 Pronouns: **He/Him** *(or update as you prefer)*
 - ⚡ Fun fact: **I love solving complex problems and exploring new technologies!**
