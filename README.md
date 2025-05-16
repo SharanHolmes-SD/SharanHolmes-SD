@@ -1,6 +1,7 @@
 
 # 👋 Hi, I’m **Sharan Debra Holmes**
-![small](https://github.com/user-attachments/assets/010d52b5-e707-47d5-afe8-8780d270a8d7)
+![small2w](https://github.com/user-attachments/assets/51796267-5ad9-45dd-a355-2b4a2372f392)
+
 🎓 Undergraduate at **SLIIT** | Specializing in **Information Technology**
 
 ---
