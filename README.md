@@ -26,11 +26,6 @@
 - 🛡️ **Cybersecurity Basics** – Understanding how to secure systems and data  
 - 📱 **Mobile App Development** – Creating Android apps with Kotlin
 
-
-### 📫 How to reach me  
-[![LinkedIn](www.linkedin.com/in/sharan2001holmes)]  
-[![Instagram]([https://www.instagram.com/your-instagram-handle](https://www.instagram.com/sharan.holmes_?igsh=Y3VocG8zc3RrazFo))]
-
 ### 😄 Pronouns  
 She
 
@@ -38,6 +33,12 @@ She
 I love solving complex problems and exploring new technologies! 🚀
 
 ---
+## Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/sharan2001holmes)  
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge)]([https://www.instagram.com/your-instagram-handle](https://www.instagram.com/sharan.holmes_?igsh=Y3VocG8zc3RrazFo))  
+
+---
+
 
 ## 🛠️ Languages and Tools
 
