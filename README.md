@@ -28,8 +28,8 @@
 
 
 ### 📫 How to reach me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sharan2001holmes)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/your-instagram-handle](https://www.instagram.com/sharan.holmes_?igsh=Y3VocG8zc3RrazFo))
+[![LinkedIn](www.linkedin.com/in/sharan2001holmes)]  
+[![Instagram]([https://www.instagram.com/your-instagram-handle](https://www.instagram.com/sharan.holmes_?igsh=Y3VocG8zc3RrazFo))]
 
 ### 😄 Pronouns  
 She
