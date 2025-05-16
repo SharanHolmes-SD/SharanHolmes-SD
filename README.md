@@ -28,8 +28,8 @@
 
 
 ### 📫 How to reach me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sharan2001holmes)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/your-instagram-handle](https://www.instagram.com/sharan.holmes_?igsh=Y3VocG8zc3RrazFo))
 
 ### 😄 Pronouns  
 She
@@ -61,7 +61,7 @@ I love solving complex problems and exploring new technologies! 🚀
 ### 🧰 Tools & IDEs  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_Logo.svg/512px-RStudio_Logo.svg.png" alt="RStudio" width="40" height="40"/>
+
 
 ### 📊 Office & Productivity  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> &nbsp;
