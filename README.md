@@ -1,22 +1,37 @@
 
 # 👋 Hi, I’m **Sharan Debra Holmes**
-
+![small](https://github.com/user-attachments/assets/010d52b5-e707-47d5-afe8-8780d270a8d7)
 🎓 Undergraduate at **SLIIT** | Specializing in **Information Technology**
 
 ---
 
 ### 👀 I’m interested in  
-💻 Software Development | 🌐 Web Technologies | 📊 Data Analysis | ☁️ Cloud Computing
+
+- 💻 **Software Development** – Crafting efficient, user-friendly applications  
+- 🌐 **Web Technologies** – Frontend, backend, and everything in between  
+- 📊 **Data Analysis & Visualization** – Turning data into insights  
+- ☁️ **Cloud Computing** – Exploring scalable and flexible cloud solutions  
+- 🔐 **Cybersecurity** – Keeping data and systems safe  
+- 🧠 **AI & Machine Learning** – Diving into intelligent systems  
+- 🛠️ **Problem Solving** – Breaking down complex challenges creatively
+
 
 ### 🌱 I’m currently learning  
-⚙️ Advanced Programming | ☁️ Cloud Platforms | 🗄️ Database Management
+
+- 🔧 **Advanced Programming Concepts** – Writing cleaner, optimized code  
+- 🗄️ **Database Management** – Deepening knowledge in SQL & NoSQL systems  
+- 🕸️ **Full-Stack Web Development** – Building dynamic, end-to-end applications  
+- 🧠 **Data Structures & Algorithms** – Strengthening problem-solving skills  
+- 🛡️ **Cybersecurity Basics** – Understanding how to secure systems and data  
+- 📱 **Mobile App Development** – Creating Android apps with Kotlin
+
 
 ### 📫 How to reach me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-handle)
 
 ### 😄 Pronouns  
-He/Him (or update as you prefer)
+She
 
 ### ⚡ Fun fact  
 I love solving complex problems and exploring new technologies! 🚀
@@ -54,7 +69,6 @@ I love solving complex problems and exploring new technologies! 🚀
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
 
 ### 🌐 Networking & OS  
-<img src="https://img.icons8.com/color/48/000000/cisco-packet-tracer.png" alt="Cisco Packet Tracer" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
 </div>
